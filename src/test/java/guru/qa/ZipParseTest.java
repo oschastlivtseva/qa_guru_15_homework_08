@@ -27,7 +27,7 @@ public class ZipParseTest {
     String lastTranslation = "to invoke";
 
     @Test
-    void ZipCheck() throws Exception {
+    void zipCheck() throws Exception {
         try (
                 InputStream is = cl.getResourceAsStream(zipArchiveName);
                 ZipInputStream zis = new ZipInputStream(is);
