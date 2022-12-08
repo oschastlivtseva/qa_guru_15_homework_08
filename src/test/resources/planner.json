@@ -1,0 +1,18 @@
+{
+  "todaysDate": {
+    "year": "2022",
+    "month": "December",
+    "day": "07",
+    "dayOfWeek": "Wednesday",
+    "time": "08:00 - 22:00"
+  },
+  "isAHoliday": false,
+  "numberOfPlannedActivities": 6,
+  "todaysActivities": {
+    "study": ["english"],
+    "choresAtHome": ["make dinner", "wash dishes"],
+    "work": ["code review", "create 3 test-cases"],
+    "fitness": [],
+    "meetings": ["daily meeting at 13:00"]
+  }
+}
